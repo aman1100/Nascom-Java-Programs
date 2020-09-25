@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample18",
+            "request": "launch",
+            "mainClass": "Sample18",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - object",
+            "request": "launch",
+            "mainClass": "object",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample17",
+            "request": "launch",
+            "mainClass": "sample17",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample16",
+            "request": "launch",
+            "mainClass": "Sample16",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample15",
+            "request": "launch",
+            "mainClass": "Sample15",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample14",
+            "request": "launch",
+            "mainClass": "sample14",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample12",
+            "request": "launch",
+            "mainClass": "sample12",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample11",
+            "request": "launch",
+            "mainClass": "sample11",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample10",
+            "request": "launch",
+            "mainClass": "sample10",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample9",
+            "request": "launch",
+            "mainClass": "sample9",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample8",
+            "request": "launch",
+            "mainClass": "sample8",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample7",
+            "request": "launch",
+            "mainClass": "sample7",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample6",
+            "request": "launch",
+            "mainClass": "Sample6",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample5",
+            "request": "launch",
+            "mainClass": "Sample5",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample4",
+            "request": "launch",
+            "mainClass": "Sample4",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample3",
+            "request": "launch",
+            "mainClass": "sample3",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample2",
+            "request": "launch",
+            "mainClass": "Sample2",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankClient",
+            "request": "launch",
+            "mainClass": "BankClient",
+            "projectName": "Nascom_c061a73b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sample1<Nascom_c061a73b>",
+            "request": "launch",
+            "mainClass": "sample1",
+            "projectName": "Nascom_c061a73b"
+        }
+    ]
+}
